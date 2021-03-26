@@ -1,0 +1,229 @@
+# <!=Copyright (C) 2020 Rara Theme
+# This file is distributed under the GNU General Public License v2 or later.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Tour Operator 1.0.9\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/tour-operator\n"
+"POT-Creation-Date: 2020-04-02 13:39:05+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2020-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"X-Generator: grunt-wp-i18n 1.0.3\n"
+
+#: functions.php:28
+msgid "Default Header Image"
+msgstr ""
+
+#: functions.php:128
+msgid "Work Hour"
+msgstr ""
+
+#: functions.php:129
+msgid "Add working hour in header."
+msgstr ""
+
+#: functions.php:153
+msgid "Email"
+msgstr ""
+
+#: functions.php:154
+msgid "Add email in header."
+msgstr ""
+
+#: functions.php:178
+msgid "Phone Number"
+msgstr ""
+
+#: functions.php:179
+msgid "Add phone number in header."
+msgstr ""
+
+#: functions.php:203
+msgid "Phone Label"
+msgstr ""
+
+#: functions.php:204
+msgid "Add phone label in header."
+msgstr ""
+
+#: functions.php:220 functions.php:358 sections/banner.php:10
+#: sections/banner.php:11
+msgid "Get Started"
+msgstr ""
+
+#: functions.php:230
+msgid "Button Label"
+msgstr ""
+
+#: functions.php:247
+msgid "Search Form"
+msgstr ""
+
+#: functions.php:248
+msgid "Enable to show search form in header."
+msgstr ""
+
+#: functions.php:274
+msgid "Button Url"
+msgstr ""
+
+#: functions.php:292
+msgid "Social Links"
+msgstr ""
+
+#: functions.php:293
+msgid "Enable to show social links in header."
+msgstr ""
+
+#: functions.php:388
+msgid "(888) 123-45678"
+msgstr ""
+
+#: functions.php:389
+msgid "Call us, we are open 24/7"
+msgstr ""
+
+#: functions.php:451
+msgid "MENU"
+msgstr ""
+
+#: functions.php:483
+msgid "Information Links"
+msgstr ""
+
+#: functions.php:496
+msgid "Need help?"
+msgstr ""
+
+#: functions.php:497
+msgid "View demo"
+msgstr ""
+
+#: functions.php:497 functions.php:498 functions.php:499 functions.php:500
+msgid "here"
+msgstr ""
+
+#: functions.php:498
+msgid "View documentation"
+msgstr ""
+
+#: functions.php:499
+msgid "Support ticket"
+msgstr ""
+
+#: functions.php:500
+msgid "More Details"
+msgstr ""
+
+#: functions.php:506
+msgid "About Tour Package"
+msgstr ""
+
+#: functions.php:517
+msgid "Demo Content Import"
+msgstr ""
+
+#: functions.php:529
+msgid ""
+"Tour Operator comes with demo content import feature. You can import the "
+"demo content with just one click. For step-by-step video tutorial, "
+"%1$sClick here%2$s"
+msgstr ""
+
+#: functions.php:536
+msgid "About Demo Import"
+msgstr ""
+
+#: functions.php:546
+msgid "Plugin required"
+msgstr ""
+
+#: functions.php:546
+msgid "Rara One Click Demo Import"
+msgstr ""
+
+#: functions.php:549
+msgid "Download Demo Content"
+msgstr ""
+
+#: functions.php:549
+msgid "Click here"
+msgstr ""
+
+#: functions.php:583
+msgid "Tour Operator | Developed By "
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Rara Theme"
+msgstr ""
+
+#: functions.php:586
+msgid " Powered by %s"
+msgstr ""
+
+#: functions.php:586
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: sections/banner.php:8
+msgid "Find Your Best Holiday"
+msgstr ""
+
+#: sections/banner.php:9
+msgid "Find great adventure holidays and activities around the planet."
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Tour Operator"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://rarathemes.com/wordpress-themes/tour-operator/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Tour Operator is a child theme of Travel Agency free WordPress theme. This "
+"theme helps you create a fully functional, professional, and appealing "
+"travel booking websites in a matter of time without any prior coding "
+"knowledge or experience. This theme can be a perfect choice for all types "
+"of travel and tour operators. The fully responsive and mobile-friendly "
+"design of this theme ensures your website adjusts and display smoothly on "
+"any device or screen sizes. Tour Operator smoothly integrates popular WP "
+"Travel Engine WordPress plugin. It allows you to add trips, destinations, "
+"trip types, featured travel activities, highlight your specialties and even "
+"let your visitors book the trip right away. The appealing design, modern "
+"CSS effects, and animation of this theme will make your visitors feel like "
+"already being on a trip. Tour Operator theme is optimized for speed and SEO "
+"friendly which ensures higher ranking of your website in search engine "
+"results. This theme comes with various advanced and easy-to-use features to "
+"help you create a visually appealing, user-friendly, and interactive "
+"website in no time. The theme comes with three custom widgets which are "
+"popular trips, featured trips, and recent trips to help you showcase your "
+"travel services in a more appealing way. The theme is rigorously tested and "
+"optimized for speed and faster page load time and has a secure and clean "
+"code. It is a translation ready theme and is designed with a focus on "
+"visitor engagement to generate maximum leads for your business. Besides "
+"travel booking companies, you can also use Tour Operator theme for travel "
+"blogging, hotel, spa, bed and breakfast, luxury resort, reservation, tour "
+"operator, tourism, transports, and car booking. Check the demo at "
+"https://demo.rarathemes.com/tour-operator/, documentation at "
+"https://docs.rarathemes.com/docs/tour-operator/, and get support at "
+"https://rarathemes.com/support-ticket/."
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://rarathemes.com/"
+msgstr ""
+
+#: functions.php:72
+#. translators: If there are characters in your language that are not supported
+#. by Nunito Sans, translate this to 'off'. Do not translate into your own
+#. language.
+msgctxt "Nunito Sans font: on or off"
+msgid "on"
+msgstr ""
